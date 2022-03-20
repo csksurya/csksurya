@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning btech it @sastra
 - 💞️ I’m looking to collaborate on some app projects
-- 📫 Reach me usig mail id 
+- 📫 Reach me using mail id 
 
 <!---
 csksurya/csksurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
